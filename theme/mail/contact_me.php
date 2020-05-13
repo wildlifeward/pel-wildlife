@@ -32,6 +32,7 @@ $messagebodyhtml = "You have received a new message from your website contact fo
 //  );
 
 mail($sendtome,$subject,$message,$headers);
+return true;
 //$request =  $url.'api/mail.send.json';
 
 // Generate curl request
