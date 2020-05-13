@@ -285,7 +285,7 @@
 
 			.image.shrink img {
 				display: block;
-				max-width: 5vw;
+				max-height: 400px;
 			}
 /* Icon */
 
