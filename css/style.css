@@ -278,15 +278,8 @@
 				width: 100%;
 			}
 
-		.image .shrink {
-			display: block;
-			margin: 0 0 2em 0;
-		}
-
-			.image .shrink img {
-				display: block;
-				width: 400px;
-			}
+	
+			
 /* Icon */
 
 	.icon {
