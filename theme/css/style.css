@@ -278,12 +278,12 @@
 				width: 100%;
 			}
 
-		.image.shrink {
+		.image .shrink {
 			display: block;
 			margin: 0 0 2em 0;
 		}
 
-			.image.shrink img {
+			.image .shrink img {
 				display: block;
 				width: 400px;
 			}
